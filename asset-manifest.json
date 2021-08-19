@@ -3,8 +3,8 @@
     "static/js/0.dc83fed2.chunk.js": "/spin-the-wheel/static/js/0.dc83fed2.chunk.js",
     "static/js/0.dc83fed2.chunk.js.map": "/spin-the-wheel/static/js/0.dc83fed2.chunk.js.map",
     "main.css": "/spin-the-wheel/static/css/main.fd2c2aa1.chunk.css",
-    "main.js": "/spin-the-wheel/static/js/main.c134f4d1.chunk.js",
-    "main.js.map": "/spin-the-wheel/static/js/main.c134f4d1.chunk.js.map",
+    "main.js": "/spin-the-wheel/static/js/main.3797b170.chunk.js",
+    "main.js.map": "/spin-the-wheel/static/js/main.3797b170.chunk.js.map",
     "polyfills-dom.js": "/spin-the-wheel/static/js/polyfills-dom.6405356f.chunk.js",
     "polyfills-dom.js.map": "/spin-the-wheel/static/js/polyfills-dom.6405356f.chunk.js.map",
     "runtime-main.js": "/spin-the-wheel/static/js/runtime-main.b69cfec5.js",
@@ -132,6 +132,6 @@
     "static/css/4.532f36fa.chunk.css",
     "static/js/4.f9bafc11.chunk.js",
     "static/css/main.fd2c2aa1.chunk.css",
-    "static/js/main.c134f4d1.chunk.js"
+    "static/js/main.3797b170.chunk.js"
   ]
 }
