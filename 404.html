@@ -8,7 +8,5 @@
     } else {
         route = window.location.pathname;
     }
-    const redirectUrl = `${window.location.origin}/${homeDir}?route=${route}&query=${encodeURIComponent(window.location.search)}`;
-    console.log(redirectUrl);
-    window.location = redirectUrl;
+    window.location = `${window.location.origin}/${homeDir}?route=${route}&query=${encodeURIComponent(window.location.search)}`;
 </script>
