@@ -1,16 +1,16 @@
 {
-  "short_name": "幸運輪盤",
-  "name": "幸運輪盤",
+  "short_name": "Spin Wheel",
+  "name": "Spin The Wheel",
   "icons": [
     {
       "src": "assets/icon/icon.png",
       "type": "image/png",
-      "sizes": "1024x1024"
+      "sizes": "512x512"
     },
     {
       "src": "assets/icon/icon.png",
       "type": "image/png",
-      "sizes": "1024x1024",
+      "sizes": "512x512",
       "purpose": "maskable"
     }
   ],
