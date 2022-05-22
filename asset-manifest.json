@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/spin-the-wheel/static/css/main.1203280b.css",
-    "main.js": "/spin-the-wheel/static/js/main.ed921d9e.js",
+    "main.css": "/spin-the-wheel/static/css/main.70084097.css",
+    "main.js": "/spin-the-wheel/static/js/main.6efd29b3.js",
     "static/js/443.8c8157e3.chunk.js": "/spin-the-wheel/static/js/443.8c8157e3.chunk.js",
     "static/js/738.26e03a9f.chunk.js": "/spin-the-wheel/static/js/738.26e03a9f.chunk.js",
     "static/js/372.9db46a28.chunk.js": "/spin-the-wheel/static/js/372.9db46a28.chunk.js",
@@ -13,8 +13,8 @@
     "static/js/186.5cbbcf56.chunk.js": "/spin-the-wheel/static/js/186.5cbbcf56.chunk.js",
     "service-worker.js": "/spin-the-wheel/service-worker.js",
     "index.html": "/spin-the-wheel/index.html",
-    "main.1203280b.css.map": "/spin-the-wheel/static/css/main.1203280b.css.map",
-    "main.ed921d9e.js.map": "/spin-the-wheel/static/js/main.ed921d9e.js.map",
+    "main.70084097.css.map": "/spin-the-wheel/static/css/main.70084097.css.map",
+    "main.6efd29b3.js.map": "/spin-the-wheel/static/js/main.6efd29b3.js.map",
     "443.8c8157e3.chunk.js.map": "/spin-the-wheel/static/js/443.8c8157e3.chunk.js.map",
     "738.26e03a9f.chunk.js.map": "/spin-the-wheel/static/js/738.26e03a9f.chunk.js.map",
     "372.9db46a28.chunk.js.map": "/spin-the-wheel/static/js/372.9db46a28.chunk.js.map",
@@ -26,7 +26,7 @@
     "186.5cbbcf56.chunk.js.map": "/spin-the-wheel/static/js/186.5cbbcf56.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1203280b.css",
-    "static/js/main.ed921d9e.js"
+    "static/css/main.70084097.css",
+    "static/js/main.6efd29b3.js"
   ]
 }
